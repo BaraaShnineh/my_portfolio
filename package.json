@@ -1,8 +1,7 @@
 {
   "name": "my_website",
   "version": "1.0.0",
-  "description": "",
-  "main": "theme.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js",
     "start": "node server.js"
@@ -20,5 +19,3 @@
     "nodemon": "^2.0.19"
   }
 }
-
-
