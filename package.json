@@ -17,5 +17,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaraaShnineh/my_portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BaraaShnineh/my_portfolio/issues"
+  },
+  "homepage": "https://github.com/BaraaShnineh/my_portfolio#readme",
+  "description": ""
 }
